@@ -1,0 +1,500 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Git\\FlappyTerminatorResult\\FlappyTerminatorResult\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0FD317B7-5EF8-54FE-4C61-83511A4B0E73}|Assembly-CSharp.csproj|d:\\git\\flappyterminatorresult\\flappyterminatorresult\\assets\\scripts\\enemy\\enemy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0FD317B7-5EF8-54FE-4C61-83511A4B0E73}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\enemy\\enemy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0FD317B7-5EF8-54FE-4C61-83511A4B0E73}|Assembly-CSharp.csproj|D:\\Git\\FlappyTerminatorResult\\FlappyTerminatorResult\\assets\\scripts\\spawners\\bulletspawner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0FD317B7-5EF8-54FE-4C61-83511A4B0E73}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\spawners\\bulletspawner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0FD317B7-5EF8-54FE-4C61-83511A4B0E73}|Assembly-CSharp.csproj|D:\\Git\\FlappyTerminatorResult\\FlappyTerminatorResult\\assets\\scripts\\spawners\\spawner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0FD317B7-5EF8-54FE-4C61-83511A4B0E73}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\spawners\\spawner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0FD317B7-5EF8-54FE-4C61-83511A4B0E73}|Assembly-CSharp.csproj|D:\\Git\\FlappyTerminatorResult\\FlappyTerminatorResult\\assets\\scripts\\spawners\\pool.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0FD317B7-5EF8-54FE-4C61-83511A4B0E73}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\spawners\\pool.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Git\\FlappyTerminatorResult\\FlappyTerminatorResult\\Assets\\Scripts\\BulletSpawner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Scripts\\BulletSpawner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0FD317B7-5EF8-54FE-4C61-83511A4B0E73}|Assembly-CSharp.csproj|D:\\Git\\FlappyTerminatorResult\\FlappyTerminatorResult\\assets\\scripts\\bullet\\bulletmover.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0FD317B7-5EF8-54FE-4C61-83511A4B0E73}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\bullet\\bulletmover.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0FD317B7-5EF8-54FE-4C61-83511A4B0E73}|Assembly-CSharp.csproj|D:\\Git\\FlappyTerminatorResult\\FlappyTerminatorResult\\assets\\scripts\\player\\playermover.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0FD317B7-5EF8-54FE-4C61-83511A4B0E73}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\player\\playermover.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0FD317B7-5EF8-54FE-4C61-83511A4B0E73}|Assembly-CSharp.csproj|D:\\Git\\FlappyTerminatorResult\\FlappyTerminatorResult\\assets\\scripts\\player\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0FD317B7-5EF8-54FE-4C61-83511A4B0E73}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\player\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Git\\FlappyTerminatorResult\\FlappyTerminatorResult\\Assets\\Scripts\\Spawner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Scripts\\Spawner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0FD317B7-5EF8-54FE-4C61-83511A4B0E73}|Assembly-CSharp.csproj|D:\\Git\\FlappyTerminatorResult\\FlappyTerminatorResult\\assets\\scripts\\game.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0FD317B7-5EF8-54FE-4C61-83511A4B0E73}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\game.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0FD317B7-5EF8-54FE-4C61-83511A4B0E73}|Assembly-CSharp.csproj|D:\\Git\\FlappyTerminatorResult\\FlappyTerminatorResult\\assets\\scripts\\window.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0FD317B7-5EF8-54FE-4C61-83511A4B0E73}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\window.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0FD317B7-5EF8-54FE-4C61-83511A4B0E73}|Assembly-CSharp.csproj|D:\\Git\\FlappyTerminatorResult\\FlappyTerminatorResult\\assets\\scripts\\scoreview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0FD317B7-5EF8-54FE-4C61-83511A4B0E73}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\scoreview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0FD317B7-5EF8-54FE-4C61-83511A4B0E73}|Assembly-CSharp.csproj|d:\\git\\flappyterminatorresult\\flappyterminatorresult\\assets\\scripts\\iinteractable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0FD317B7-5EF8-54FE-4C61-83511A4B0E73}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\iinteractable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0FD317B7-5EF8-54FE-4C61-83511A4B0E73}|Assembly-CSharp.csproj|D:\\Git\\FlappyTerminatorResult\\FlappyTerminatorResult\\assets\\scripts\\ground.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0FD317B7-5EF8-54FE-4C61-83511A4B0E73}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\ground.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0FD317B7-5EF8-54FE-4C61-83511A4B0E73}|Assembly-CSharp.csproj|D:\\Git\\FlappyTerminatorResult\\FlappyTerminatorResult\\assets\\scripts\\iitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0FD317B7-5EF8-54FE-4C61-83511A4B0E73}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\iitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0FD317B7-5EF8-54FE-4C61-83511A4B0E73}|Assembly-CSharp.csproj|D:\\Git\\FlappyTerminatorResult\\FlappyTerminatorResult\\assets\\scripts\\playertracker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0FD317B7-5EF8-54FE-4C61-83511A4B0E73}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\playertracker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0FD317B7-5EF8-54FE-4C61-83511A4B0E73}|Assembly-CSharp.csproj|D:\\Git\\FlappyTerminatorResult\\FlappyTerminatorResult\\assets\\scripts\\inputreader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0FD317B7-5EF8-54FE-4C61-83511A4B0E73}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\inputreader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Git\\FlappyTerminatorResult\\FlappyTerminatorResult\\Assets\\Scripts\\BulletMover.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Scripts\\BulletMover.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Git\\FlappyTerminatorResult\\FlappyTerminatorResult\\Assets\\Scripts\\Player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Scripts\\Player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Git\\FlappyTerminatorResult\\FlappyTerminatorResult\\Assets\\Scripts\\Pool.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Scripts\\Pool.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Git\\FlappyTerminatorResult\\FlappyTerminatorResult\\Assets\\Scripts\\EnemyCollisionHandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Scripts\\EnemyCollisionHandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Git\\FlappyTerminatorResult\\FlappyTerminatorResult\\Assets\\Scripts\\BulletRemover.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Scripts\\BulletRemover.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Git\\FlappyTerminatorResult\\FlappyTerminatorResult\\Assets\\Scripts\\EnemySpawner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Scripts\\EnemySpawner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Git\\FlappyTerminatorResult\\FlappyTerminatorResult\\Assets\\Scripts\\Bullet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Scripts\\Bullet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Git\\FlappyTerminatorResult\\FlappyTerminatorResult\\Assets\\Scripts\\EnemyRemover.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Scripts\\EnemyRemover.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Git\\FlappyTerminatorResult\\FlappyTerminatorResult\\Assets\\Scripts\\Enemy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Scripts\\Enemy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Git\\FlappyTerminatorResult\\FlappyTerminatorResult\\Assets\\Scripts\\PlayerCollisionHandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Scripts\\PlayerCollisionHandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Git\\FlappyTerminatorResult\\FlappyTerminatorResult\\Assets\\Scripts\\IPool.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Scripts\\IPool.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Git\\FlappyTerminatorResult\\FlappyTerminatorResult\\Assets\\Scripts\\PlayerMover.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Scripts\\PlayerMover.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Enemy.cs",
+              "DocumentMoniker": "D:\\Git\\FlappyTerminatorResult\\FlappyTerminatorResult\\Assets\\Scripts\\Enemy\\Enemy.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Enemy\\Enemy.cs",
+              "ToolTip": "D:\\Git\\FlappyTerminatorResult\\FlappyTerminatorResult\\Assets\\Scripts\\Enemy\\Enemy.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Enemy\\Enemy.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-23T11:24:13.472Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Spawner.cs",
+              "DocumentMoniker": "D:\\Git\\FlappyTerminatorResult\\FlappyTerminatorResult\\Assets\\Scripts\\Spawners\\Spawner.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Spawners\\Spawner.cs",
+              "ToolTip": "D:\\Git\\FlappyTerminatorResult\\FlappyTerminatorResult\\Assets\\Scripts\\Spawners\\Spawner.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Spawners\\Spawner.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACAAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-23T11:21:20.928Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Pool.cs",
+              "DocumentMoniker": "D:\\Git\\FlappyTerminatorResult\\FlappyTerminatorResult\\Assets\\Scripts\\Spawners\\Pool.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Spawners\\Pool.cs",
+              "ToolTip": "D:\\Git\\FlappyTerminatorResult\\FlappyTerminatorResult\\Assets\\Scripts\\Spawners\\Pool.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Spawners\\Pool.cs",
+              "ViewState": "AgIAABcAAAAAAAAAAAAwwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-23T11:21:12.823Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "BulletSpawner.cs",
+              "DocumentMoniker": "D:\\Git\\FlappyTerminatorResult\\FlappyTerminatorResult\\Assets\\Scripts\\Spawners\\BulletSpawner.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Spawners\\BulletSpawner.cs",
+              "ToolTip": "D:\\Git\\FlappyTerminatorResult\\FlappyTerminatorResult\\Assets\\Scripts\\Spawners\\BulletSpawner.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Spawners\\BulletSpawner.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAxwBkAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-23T11:20:53.202Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "BulletMover.cs",
+              "DocumentMoniker": "D:\\Git\\FlappyTerminatorResult\\FlappyTerminatorResult\\Assets\\Scripts\\Bullet\\BulletMover.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Bullet\\BulletMover.cs",
+              "ToolTip": "D:\\Git\\FlappyTerminatorResult\\FlappyTerminatorResult\\Assets\\Scripts\\Bullet\\BulletMover.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Bullet\\BulletMover.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-23T11:17:58.682Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "PlayerMover.cs",
+              "DocumentMoniker": "D:\\Git\\FlappyTerminatorResult\\FlappyTerminatorResult\\Assets\\Scripts\\Player\\PlayerMover.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Player\\PlayerMover.cs",
+              "ToolTip": "D:\\Git\\FlappyTerminatorResult\\FlappyTerminatorResult\\Assets\\Scripts\\Player\\PlayerMover.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Player\\PlayerMover.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAgwDEAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-23T11:15:00.766Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Player.cs",
+              "DocumentMoniker": "D:\\Git\\FlappyTerminatorResult\\FlappyTerminatorResult\\Assets\\Scripts\\Player\\Player.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Player\\Player.cs",
+              "ToolTip": "D:\\Git\\FlappyTerminatorResult\\FlappyTerminatorResult\\Assets\\Scripts\\Player\\Player.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Player\\Player.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAQwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-23T11:14:49.304Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "BulletMover.cs",
+              "DocumentMoniker": "D:\\Git\\FlappyTerminatorResult\\FlappyTerminatorResult\\Assets\\Scripts\\BulletMover.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\BulletMover.cs",
+              "ToolTip": "D:\\Git\\FlappyTerminatorResult\\FlappyTerminatorResult\\Assets\\Scripts\\BulletMover.cs",
+              "RelativeToolTip": "Assets\\Scripts\\BulletMover.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-22T18:38:37.874Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ScoreView.cs",
+              "DocumentMoniker": "D:\\Git\\FlappyTerminatorResult\\FlappyTerminatorResult\\Assets\\Scripts\\ScoreView.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\ScoreView.cs",
+              "ToolTip": "D:\\Git\\FlappyTerminatorResult\\FlappyTerminatorResult\\Assets\\Scripts\\ScoreView.cs",
+              "RelativeToolTip": "Assets\\Scripts\\ScoreView.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-22T18:16:06.866Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Game.cs",
+              "DocumentMoniker": "D:\\Git\\FlappyTerminatorResult\\FlappyTerminatorResult\\Assets\\Scripts\\Game.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Game.cs",
+              "ToolTip": "D:\\Git\\FlappyTerminatorResult\\FlappyTerminatorResult\\Assets\\Scripts\\Game.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Game.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAowC0AAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-22T17:43:40.607Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Window.cs",
+              "DocumentMoniker": "D:\\Git\\FlappyTerminatorResult\\FlappyTerminatorResult\\Assets\\Scripts\\Window.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Window.cs",
+              "ToolTip": "D:\\Git\\FlappyTerminatorResult\\FlappyTerminatorResult\\Assets\\Scripts\\Window.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Window.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACIAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-22T17:35:09.459Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Player.cs",
+              "DocumentMoniker": "D:\\Git\\FlappyTerminatorResult\\FlappyTerminatorResult\\Assets\\Scripts\\Player.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Player.cs",
+              "ToolTip": "D:\\Git\\FlappyTerminatorResult\\FlappyTerminatorResult\\Assets\\Scripts\\Player.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Player.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAA5wDIAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-22T07:00:05.962Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "BulletSpawner.cs",
+              "DocumentMoniker": "D:\\Git\\FlappyTerminatorResult\\FlappyTerminatorResult\\Assets\\Scripts\\BulletSpawner.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\BulletSpawner.cs",
+              "ToolTip": "D:\\Git\\FlappyTerminatorResult\\FlappyTerminatorResult\\Assets\\Scripts\\BulletSpawner.cs",
+              "RelativeToolTip": "Assets\\Scripts\\BulletSpawner.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-22T18:22:56.814Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Spawner.cs",
+              "DocumentMoniker": "D:\\Git\\FlappyTerminatorResult\\FlappyTerminatorResult\\Assets\\Scripts\\Spawner.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Spawner.cs",
+              "ToolTip": "D:\\Git\\FlappyTerminatorResult\\FlappyTerminatorResult\\Assets\\Scripts\\Spawner.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Spawner.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-22T09:53:30.191Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Pool.cs",
+              "DocumentMoniker": "D:\\Git\\FlappyTerminatorResult\\FlappyTerminatorResult\\Assets\\Scripts\\Pool.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Pool.cs",
+              "ToolTip": "D:\\Git\\FlappyTerminatorResult\\FlappyTerminatorResult\\Assets\\Scripts\\Pool.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Pool.cs",
+              "ViewState": "AgIAABcAAAAAAAAAAAAwwDIAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-22T09:32:18.506Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "EnemyCollisionHandler.cs",
+              "DocumentMoniker": "D:\\Git\\FlappyTerminatorResult\\FlappyTerminatorResult\\Assets\\Scripts\\EnemyCollisionHandler.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\EnemyCollisionHandler.cs",
+              "ToolTip": "D:\\Git\\FlappyTerminatorResult\\FlappyTerminatorResult\\Assets\\Scripts\\EnemyCollisionHandler.cs",
+              "RelativeToolTip": "Assets\\Scripts\\EnemyCollisionHandler.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-22T19:02:37.528Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "BulletRemover.cs",
+              "DocumentMoniker": "D:\\Git\\FlappyTerminatorResult\\FlappyTerminatorResult\\Assets\\Scripts\\BulletRemover.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\BulletRemover.cs",
+              "ToolTip": "D:\\Git\\FlappyTerminatorResult\\FlappyTerminatorResult\\Assets\\Scripts\\BulletRemover.cs",
+              "RelativeToolTip": "Assets\\Scripts\\BulletRemover.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-22T18:58:53.758Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "EnemySpawner.cs",
+              "DocumentMoniker": "D:\\Git\\FlappyTerminatorResult\\FlappyTerminatorResult\\Assets\\Scripts\\EnemySpawner.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\EnemySpawner.cs",
+              "ToolTip": "D:\\Git\\FlappyTerminatorResult\\FlappyTerminatorResult\\Assets\\Scripts\\EnemySpawner.cs",
+              "RelativeToolTip": "Assets\\Scripts\\EnemySpawner.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-22T09:06:16.988Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "Bullet.cs",
+              "DocumentMoniker": "D:\\Git\\FlappyTerminatorResult\\FlappyTerminatorResult\\Assets\\Scripts\\Bullet.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Bullet.cs",
+              "ToolTip": "D:\\Git\\FlappyTerminatorResult\\FlappyTerminatorResult\\Assets\\Scripts\\Bullet.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Bullet.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-22T18:21:23.792Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "EnemyRemover.cs",
+              "DocumentMoniker": "D:\\Git\\FlappyTerminatorResult\\FlappyTerminatorResult\\Assets\\Scripts\\EnemyRemover.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\EnemyRemover.cs",
+              "ToolTip": "D:\\Git\\FlappyTerminatorResult\\FlappyTerminatorResult\\Assets\\Scripts\\EnemyRemover.cs",
+              "RelativeToolTip": "Assets\\Scripts\\EnemyRemover.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-22T09:42:24.583Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "IItem.cs",
+              "DocumentMoniker": "D:\\Git\\FlappyTerminatorResult\\FlappyTerminatorResult\\Assets\\Scripts\\IItem.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\IItem.cs",
+              "ToolTip": "D:\\Git\\FlappyTerminatorResult\\FlappyTerminatorResult\\Assets\\Scripts\\IItem.cs",
+              "RelativeToolTip": "Assets\\Scripts\\IItem.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-22T09:29:00.168Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Ground.cs",
+              "DocumentMoniker": "D:\\Git\\FlappyTerminatorResult\\FlappyTerminatorResult\\Assets\\Scripts\\Ground.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Ground.cs",
+              "ToolTip": "D:\\Git\\FlappyTerminatorResult\\FlappyTerminatorResult\\Assets\\Scripts\\Ground.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Ground.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-22T08:05:36.458Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "IInteractable.cs",
+              "DocumentMoniker": "D:\\Git\\FlappyTerminatorResult\\FlappyTerminatorResult\\Assets\\Scripts\\IInteractable.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\IInteractable.cs",
+              "ToolTip": "D:\\Git\\FlappyTerminatorResult\\FlappyTerminatorResult\\Assets\\Scripts\\IInteractable.cs",
+              "RelativeToolTip": "Assets\\Scripts\\IInteractable.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAA6wAEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-22T07:01:43.576Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "Enemy.cs",
+              "DocumentMoniker": "D:\\Git\\FlappyTerminatorResult\\FlappyTerminatorResult\\Assets\\Scripts\\Enemy.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Enemy.cs",
+              "ToolTip": "D:\\Git\\FlappyTerminatorResult\\FlappyTerminatorResult\\Assets\\Scripts\\Enemy.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Enemy.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-22T08:56:12.05Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "PlayerCollisionHandler.cs",
+              "DocumentMoniker": "D:\\Git\\FlappyTerminatorResult\\FlappyTerminatorResult\\Assets\\Scripts\\PlayerCollisionHandler.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\PlayerCollisionHandler.cs",
+              "ToolTip": "D:\\Git\\FlappyTerminatorResult\\FlappyTerminatorResult\\Assets\\Scripts\\PlayerCollisionHandler.cs",
+              "RelativeToolTip": "Assets\\Scripts\\PlayerCollisionHandler.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-22T07:01:36.162Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "InputReader.cs",
+              "DocumentMoniker": "D:\\Git\\FlappyTerminatorResult\\FlappyTerminatorResult\\Assets\\Scripts\\InputReader.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\InputReader.cs",
+              "ToolTip": "D:\\Git\\FlappyTerminatorResult\\FlappyTerminatorResult\\Assets\\Scripts\\InputReader.cs",
+              "RelativeToolTip": "Assets\\Scripts\\InputReader.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-22T07:10:00.886Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "IPool.cs",
+              "DocumentMoniker": "D:\\Git\\FlappyTerminatorResult\\FlappyTerminatorResult\\Assets\\Scripts\\IPool.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\IPool.cs",
+              "ToolTip": "D:\\Git\\FlappyTerminatorResult\\FlappyTerminatorResult\\Assets\\Scripts\\IPool.cs",
+              "RelativeToolTip": "Assets\\Scripts\\IPool.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-22T09:29:02.207Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "PlayerTracker.cs",
+              "DocumentMoniker": "D:\\Git\\FlappyTerminatorResult\\FlappyTerminatorResult\\Assets\\Scripts\\PlayerTracker.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\PlayerTracker.cs",
+              "ToolTip": "D:\\Git\\FlappyTerminatorResult\\FlappyTerminatorResult\\Assets\\Scripts\\PlayerTracker.cs",
+              "RelativeToolTip": "Assets\\Scripts\\PlayerTracker.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-22T07:01:39.64Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "PlayerMover.cs",
+              "DocumentMoniker": "D:\\Git\\FlappyTerminatorResult\\FlappyTerminatorResult\\Assets\\Scripts\\PlayerMover.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\PlayerMover.cs",
+              "ToolTip": "D:\\Git\\FlappyTerminatorResult\\FlappyTerminatorResult\\Assets\\Scripts\\PlayerMover.cs",
+              "RelativeToolTip": "Assets\\Scripts\\PlayerMover.cs",
+              "ViewState": "AgIAACAAAAAAAAAAAAAwwAoAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-22T07:01:37.888Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
